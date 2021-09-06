@@ -27,19 +27,20 @@ li {
 
 li a{
     display: block;
-    color: white;
+    color: rgb(255, 255, 255);
     font-size: 90px;
     text-align:center;
     padding: 25px;
     text-decoration: none;
+    -webkit-text-stroke:1px rgb(0, 0, 0);
 }
 
 li:hover {
-    background-color: rgba(25, 0, 253, 0.3);
+    background-color: rgb(255, 251, 0);
 }
 
 .active{
-    background-color: rgb(76, 65, 225);
+    background-color: rgb(255, 136, 0);
 }
 
 
