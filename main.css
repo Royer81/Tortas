@@ -76,7 +76,7 @@ body{
 }
 .bloque.parallax{
 	height: 800px;
-	background-position: 50% 50%;
+	background-position: 100% 100%;
 	background-repeat: no-repeat;
 	background-size: contain;
 	background-attachment: fixed;
